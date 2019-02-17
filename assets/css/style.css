@@ -157,8 +157,11 @@ boxes with the border in the content section */
     width: 100%;
     padding: 20px;
     margin-top: 40px;
-}
+    }
+    #header-right {
+    position:
+    }
 @media only screen and (max-width: 768) {
     /* For desktop */
-    
+
 }
